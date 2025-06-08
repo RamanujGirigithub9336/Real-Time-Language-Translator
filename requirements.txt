@@ -1,0 +1,19 @@
+# Core ML and translation
+torch>=1.13.0
+transformers>=4.30.0
+git+https://github.com/openai/whisper.git
+
+# Speech recognition & synthesis
+SpeechRecognition>=3.8.1
+gTTS>=2.2.4
+
+# Audio handling
+sounddevice>=0.4.6
+soundfile>=0.12.1
+numpy>=1.24.0
+
+# GUI
+customtkinter>=5.2.0
+
+# System/platform utilities
+platformdirs>=3.10.0
